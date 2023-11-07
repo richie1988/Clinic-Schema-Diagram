@@ -23,6 +23,8 @@
 
 This repository, "Clinic-Schema-Diagram," is a database implementation project based on a clinic database diagram. The project's primary goal is to create a functional database by interpreting the provided diagram and implementing the necessary SQL commands.
 
+<img src="https://github.com/richie1988/Clinic-Schema-Diagram/assets/101261047/d1b69fe4-6b22-4163-ab47-08b57fbdc851" alt="screenshot of clinic diagram" width="800px" />
+
 ## Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
