@@ -8,8 +8,8 @@ CREATE TABLE patients (
 -- Create a table to store medical history records
 CREATE TABLE medical_history (
     ID INT PRIMARY KEY,         -- Unique identifier for each medical history record
-    admitted_at TIMESTAMP,     -- Timestamp when the patient was admitted
-    patients_ID INT,           -- Foreign key referencing the patient
+    admitted_at TIMESTAMP,     -- Timestamp when the patients was admitted
+    patients_ID INT,           -- Foreign key referencing the patients
     status VARCHAR(100),       -- Medical history status
     CONSTRAINT FK_medical_history_patients FOREIGN KEY (patients_ID)
     REFERENCES patients(ID)    -- Create a foreign key relationship with the patients table
