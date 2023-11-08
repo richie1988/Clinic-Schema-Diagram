@@ -45,7 +45,7 @@ This repository, "Clinic-Schema-Diagram," is a database implementation project b
 Before you begin, make sure you have:
 
 - Basic knowledge of SQL
-- Access to a database management system (e.g., MySQL, PostgreSQL, Oracle)
+- Access to a database management system (e.g., [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Oracle](https://www.oracle.com/fr/downloads/))
 
 ### Setup <a name="setup"></a>
 
